@@ -32,6 +32,8 @@ Install dependencies using
 
 </code>
 
+
+## Not suitable for production use
 ## Runserver
 
 <code>python manage.py runserver</code>
