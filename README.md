@@ -1,8 +1,7 @@
 This is an example of openai embedding based answering API. It can consume knowledge from youtube, website links, pdf and epub books and answer any questions.  
 
-# I am building an oracle to answer questions from a limited set of sources. 
 
-# Currently supported sources include pdf, epub, youtube link (Using assembly AI), html link
+## Currently supported sources include pdf, epub, youtube link (Using assembly AI), html link
 
 ## Instructions to run it.  (Basic DJANGO frameword commands)
  
