@@ -3,7 +3,7 @@ This is an example of openai embedding based answering API. It can consume knowl
 
 ## Currently supported sources include pdf, epub, youtube link (Using assembly AI), html link
 
-## Instructions to run it.  (Basic DJANGO frameword commands)
+## Instructions to run it.  (Basic DJANGO framework commands)
  
 Install dependencies using
 
